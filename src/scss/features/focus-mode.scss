@@ -41,10 +41,11 @@
 		border-right:none;
 	}
 
-	/* Hide right sidebar button */
+	/* Hide right sidebar button - button still functional, but not displayed.
 	.mod-top-right-space .sidebar-toggle-button.mod-right {
 		opacity: 0;
 	}
+	*/
 
 	/* Hide status bar */
 	&:not(.minimal-status-off) .status-bar {
